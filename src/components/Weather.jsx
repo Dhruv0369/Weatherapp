@@ -21,7 +21,6 @@ export default function Weather() {
     try {
       const response = await axios.get(apiUrl);
       setWeatherData(response.data);
-      console.log(apiUrl);
       setError(false);
     } catch (err) {
       setError(true);
