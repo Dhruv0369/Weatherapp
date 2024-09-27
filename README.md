@@ -6,7 +6,7 @@ It's a Simple Weather Application made by using ReactJS,Vite & CSS.
 
 ## Demo
 
-Live Demo: https://weatherapp-dun-six.vercel.app/
+Live Demo: https://dhruvweather.vercel.app/
 
 
 ## Screenshots
