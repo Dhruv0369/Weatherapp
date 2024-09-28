@@ -14,6 +14,7 @@ export default function Weather() {
   const [city, setCity] = useState("Rajkot");
   const [error, setError] = useState(false);
 
+//apiKey:-  f3ecf864aab128596ade8b44603dbcb2
   const apiKey = "f3ecf864aab128596ade8b44603dbcb2";
   const apiUrl = `https://api.openweathermap.org/data/2.5/weather?units=metric&q=${city}&appid=${apiKey}`;
 
