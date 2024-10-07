@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: radial-gradient(rgba(0.3, 0, 0, 0.3), rgba(0.3, 0, 0, 0.5)), url("./1363709.png");
+  background-image: radial-gradient(rgba(0.3, 0, 0, 0.3), rgba(0.3, 0, 0, 0.5)), url("../public/1363709.png");
   font-family: Arial, Helvetica, sans-serif;
   background-size: cover;
   height: 100vh;
